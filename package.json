@@ -124,5 +124,6 @@
   },
   "resolutions": {
     "**/@babel/runtime": "7.5.5"
-  }
+  },
+  "version": "1.22.5"
 }
