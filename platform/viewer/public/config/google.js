@@ -12,7 +12,7 @@ window.config = {
       // ~ REQUIRED
       // Authorization Server URL
       authority: 'https://accounts.google.com',
-      client_id: 'YOURCLIENTID.apps.googleusercontent.com',
+      client_id: '893780831919-f3n0f30416ueq3nppahnnaf4a1rlohhj.apps.googleusercontent.com',
       redirect_uri: '/callback', // `OHIFStandaloneViewer.js`
       response_type: 'id_token token',
       scope:
